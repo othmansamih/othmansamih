@@ -12,6 +12,5 @@ I am currently serving as a Data Scientist Intern at Capgemini Engineering while
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/othmansamih)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-%23E4405F.svg?logo=internetcomputer&logoColor=white)](https://othmansamih.github.io/)
-[![Email](https://img.shields.io/badge/Email-%23E4405F.svg?logo=Gmail&logoColor=white)](othmansamih001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-%237289DA.svg?logo=discord&logoColor=white)](https://othmansamih.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/othman__samih) 
