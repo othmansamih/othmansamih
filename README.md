@@ -4,7 +4,7 @@
 
 <div style = "height: 100%">
 <img width="35%" align="right" alt="Github" src="assets/geek.gif" />
-I am currently serving as a Data Scientist Intern at Capgemini Engineering while pursuing my Master's degree in Distributed Systems and Artificial Intelligence at Enset Mohammedia. My enthusiasm lies in the realms of AI and ML, and I actively engage in learning various machine learning techniques to implement in practical projects.
+I'm a Data Scientist Intern at Capgemini Engineering while pursuing my Master's degree in Distributed Systems and Artificial Intelligence at Enset Mohammedia. My enthusiasm lies in the realms of AI and ML, and I actively engage in learning various machine learning techniques to implement in practical projects.
 </div>
 
 <br>
