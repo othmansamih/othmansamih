@@ -4,7 +4,7 @@
 
 <div style = "height: 100%">
 <img width="35%" align="right" alt="Github" src="assets/geek.gif" />
-I'm a Data Scientist Intern at Capgemini Engineering while pursuing my Master's degree in Artificial Intelligence and Distributed Systems at ENSET Mohammedia. My enthusiasm lies in the realms of AI and ML, and I actively engage in learning various machine learning techniques to implement in practical projects.
+As a second-year master's student in Data Science (Specialization in Artificial Intelligence & Management) at IA School, I'm driven by a passion for AI and machine learning. My focus is on mastering cutting-edge techniques and applying them to real-world projects.
 </div>
 
 <br>
