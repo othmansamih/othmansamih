@@ -12,7 +12,7 @@
  
  👨‍💻 A passionate data scientist and AI enthusiast, currently based in France
  
- 🎓 I’m currently pursuing a Master’s in Data Science at IA School and exploring AI-driven solutions
+ 🎓 I’m currently pursuing a Master’s in Artificial Intelligence at IA School and exploring AI-driven solutions
 
  ⚡ I’m delving deeper into computer vision, natural language processing, and building real-world AI systems.
 
