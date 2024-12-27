@@ -14,7 +14,7 @@
  
  🎓 I’m currently pursuing a Master’s in Artificial Intelligence at IA School and exploring AI-driven solutions
 
- ⚡ I’m delving deeper into computer vision, natural language processing, and building real-world AI systems.
+ ⚡ I’m delving deeper into computer vision, natural language processing, and building real-world AI systems
 
  💬 Let’s keep in touch – you can find me on **[LinkedIn](https://www.linkedin.com/in/othmansamih/)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=py,java,c,php,docker,tensorflow,vscode,github,pycharm,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,cmake,html,css,javascript,elasticsearch,fastapi,mysql,opencv,sklearn,mysql,selenium" /><br>
 </div>
 
 <br/>
