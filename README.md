@@ -55,6 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=othmansamih&theme=react&border_radius=10)](https://git.io/streak-stats)
   <img width=390 src="https://streak-stats.demolab.com?user=othmansamih&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=othmansamih&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
