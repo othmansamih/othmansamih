@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 👨‍💻 A passionate data scientist and AI enthusiast, currently based in France
- 
- 🎓 I recently graduated with a Master’s in Artificial Intelligence from IA School.
+ 🎓 Master’s graduate in Artificial Intelligence from IA School, passionate about building innovative AI-driven solutions.
 
  ⚡ I’m delving deeper into computer vision, natural language processing, and building real-world AI systems
+
+ 👨‍💻 A passionate data scientist and AI enthusiast, currently based in France
 
  💬 Let’s keep in touch – you can find me on **[LinkedIn](https://www.linkedin.com/in/othmansamih/)**
 
