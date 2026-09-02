@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/othmansamih/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://othmansamih.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:othmansamih001@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
@@ -89,8 +88,6 @@ I build AI systems that make it to production — not just notebooks.
 | [**RAG-Enhanced-Chatbot**](https://github.com/othmansamih/RAG-Enhanced-Chatbot) | Document-grounded conversational agent over embeddings + vector search, with an AI summarizer for long sources. | Python · LangChain · Chroma · Gradio |
 | [**WebGPT**](https://github.com/othmansamih/WebGPT) | Web search assistant over text, images, video and news, wrapped in a chat UI. | Python · OpenAI · DuckDuckGo · Streamlit · LangSmith |
 | [**UK License Plate Recognition**](https://github.com/othmansamih/Real-Time-UK-license-plate-detection-and-recognition) | Real-time plate detection and character recognition on video streams. | Python · YOLOv8 · SORT · EasyOCR |
-
-<p align="center"><a href="https://othmansamih.github.io/">→ More on my portfolio</a></p>
 
 ---
 
