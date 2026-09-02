@@ -94,19 +94,6 @@ I build AI systems that make it to production — not just notebooks.
 
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=othmansamih&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmansamih&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=othmansamih&theme=react&hide_border=true&border_radius=10" alt="Streak stats" />
-</div>
-
----
-
 <div align="center">
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/othmansamih/othmansamih/output/github-contribution-grid-snake-dark.svg" />
 </div>
